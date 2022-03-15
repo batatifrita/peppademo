@@ -1,0 +1,20 @@
+{
+  "name": "peppa",
+  "version": "1.0.0",
+  "description": "",
+  "engines": {
+    "node": "16.x"
+  },
+  "main": "src/index.js",
+  "author": "batata",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.2.0-dev.1629461019.d6e6244",
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security",
+    "node": "^16.6.1",
+    "node.js": "^0.0.1-security",
+    "owoify-js": "^1.0.7",
+    "cowsay": "1.5.0"
+  }
+}
